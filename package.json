@@ -1,0 +1,17 @@
+{
+  "name": "scriptable-x",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "node build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@types/scriptable-ios": "^1.7.0",
+    "esbuild": "^0.15.15"
+  }
+}
